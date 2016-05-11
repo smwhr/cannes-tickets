@@ -1,12 +1,12 @@
 Système de réservation de ticket
 ================================
 
-Dans cet exercice, il est demandé de reproduire une partie du système de réservation de ticket pour les accrédités du Festival de Cannes.  
+Dans cet exercice, il est demandé de reproduire une partie du système de réservation de tickets pour les accrédités du Festival de Cannes.  
 Vous utiliserez pour cela AngularJS.
 
 Données
 -------
-Les données fournies dans le fichier `raw-data.txt` correspondent aux séance du 14 au 20 mai.  
+Les données fournies dans le fichier `raw-data.txt` correspondent aux séances du 14 au 20 mai.  
 
 __Format__  
   Nom du film  
